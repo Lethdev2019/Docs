@@ -1,2 +1,2 @@
-# Docs
+# Documentation
 Docs for all repos
